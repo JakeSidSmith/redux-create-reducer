@@ -16,7 +16,7 @@ jobs:
 
       - run:
           name: Install
-          command: npm i
+          command: npm ci
 
       - save_cache:
           paths:
