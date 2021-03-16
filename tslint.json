@@ -25,7 +25,6 @@
     "switch-default": true,
 
     "no-var-keyword": true,
-    "no-unused-expression": true,
-    "no-use-before-declare": true
+    "no-unused-expression": true
   }
 }
